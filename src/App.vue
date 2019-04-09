@@ -7,15 +7,12 @@
 
 <script>
 export default {
-  name: 'App'
-}
+  name: "App" //导出的默认名称
+};
 </script>
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
